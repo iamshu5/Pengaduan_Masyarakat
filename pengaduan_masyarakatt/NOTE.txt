@@ -1,0 +1,6 @@
+ADMIN
+Home Petugas Clear
+Home Admin Clear
+dataLaporan Clear
+edit Clear
+tambahData Clear
